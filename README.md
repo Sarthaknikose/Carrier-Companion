@@ -4,3 +4,11 @@ This Carrier Companion assistant will act as an autonomous mentor, helping stude
 ----
 
 <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b583a73-7f50-4e50-848d-519a58184cb5" />
+
+----
+
+ Technologies Used
+IBM Watsonx.ai Studio
+IBM Granite Foundation Model (LLM)
+NLP (Natural Language Processing)
+IBM Cloud Object Storage
