@@ -68,8 +68,22 @@ The Carrier Companion will use Natural Language Processing (NLP) to address the 
 ----
 
 
+## Future Scope
 
- 
+- Integration with Real-Time Job Market APIs
+- Enhanced Personalization with Emotional AI
+- Predictive Success Modeling
+- Collaboration with Industry Mentors & Recruiters
+- Integration with Learning Platforms
+
+
+----
+
+
+
+
+
+
 
  
 
