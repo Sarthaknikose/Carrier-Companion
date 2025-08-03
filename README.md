@@ -32,7 +32,7 @@ The Carrier Companion will use Natural Language Processing (NLP) to address the 
 - Natural Language Processing (NLP)
 - Retrieval Augmented Generation (RAG)
 - IBM Granite model
-- 
+ 
 
 ----
 
